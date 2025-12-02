@@ -1,33 +1,32 @@
-# 📝 Microblogging Platform
+📝 Microblogging Platform
 
-A full-stack microblogging web application built with Java, JSP, HTML, CSS, and SQL that allows users to write, name, and publish short blog posts. Designed to simulate a simplified version of traditional blogging platforms, it offers core features like registration, post publishing, and public blog reading.
+A lightweight, full-stack microblogging web application built using Java, JSP, Servlets, HTML, CSS, and SQL. The platform allows users to create, publish, and view short blog posts through a clean and user-friendly interface. Designed as a simplified blogging system, it demonstrates core web development concepts such as authentication, CRUD operations, and database integration.
 
+⸻
 
+🔍 Overview
 
----
+The application enables users to:
+	•	Register and log in
+	•	Create blog posts with a title and content
+	•	View all published posts on a public homepage
+	•	Store and retrieve data using a backend SQL database
 
-## 🔍 Overview
+⸻
 
-This project allows users to register, log in, and create short blogs. Each blog can have a title and content and is stored in the backend database using SQL. The posts are displayed publicly to other users on the homepage.
+💡 Key Features
+	•	🧾 User Authentication → Secure registration & login
+	•	✍️ Create Blog Posts → Title + Content
+	•	🗂️ Persistent Storage → MySQL backend
+	•	🌐 Public Blog Feed → All posts visible to users
+	•	🎨 Simple & Clean UI → Built with HTML & CSS
+	•	⚙️ MVC Structure → JSP + Servlets + Java logic
 
----
+⸻
 
-## 💡 Key Features
-
-- 🧾 User registration and login system  
-- ✍️ Create short blogs with title and body  
-- 🗃️ Data storage using SQL (persistent storage)  
-- 🌐 Public blog listing page (for all users to view)  
-- 🖥️ Clean and simple user interface using HTML & CSS  
-- 🧑‍💻 Developed fully without AI assistance
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Java, JSP, Servlets  
-- **Database:** MySQL  
-- **Tools:** VS Code / Eclipse, Git
-
----
+🛠️ Tech Stack
+	•	Frontend: HTML, CSS, JavaScript
+	•	Backend: Java, JSP, Servlets
+	•	Database: MySQL
+	•	Tools & IDEs: Eclipse / VS Code
+	•	Version Control: Git & GitHub
